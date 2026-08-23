@@ -1,0 +1,2 @@
+[web]
+3.110.217.1 ansible_user=ubuntu ansible_ssh_private_key_file=/home/kiaq-lap-239/Downloads/ansiee.pem
